@@ -27,4 +27,4 @@ GPT-1 -> Unsupervised learning
 
 GPT-3
 
-<img src="https://github.com/sandokim/NLP/blob/main/images/oneshot.PNG" width="60%">
+<img src="https://github.com/sandokim/NLP/blob/main/images/oneshot.PNG" width="100%">
