@@ -24,3 +24,7 @@ BERT는 language를 이해하도록 사전 학습시킨 후 specific한 task를 
 GPT-1 -> Unsupervised learning
 
 <img src="https://github.com/sandokim/NLP/blob/main/images/word_embedding_VS_GPT.PNG" width="60%">
+
+GPT-3
+
+<img src="https://github.com/sandokim/NLP/blob/main/images/oneshot.PNG" width="60%">
