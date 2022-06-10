@@ -9,3 +9,5 @@ BERT는 language를 이해하도록 사전 학습시킨 후 specific한 task를 
 ### GPT는 Transformer의 Decoder들을 이은 것
 
 <img src="https://github.com/sandokim/NLP/blob/main/images/BERT_GPT.PNG" width="60%">
+
+#### 벡터의 dot product 내적을 통해 두 단어의 cosine similarity를 구할 수 있다.
